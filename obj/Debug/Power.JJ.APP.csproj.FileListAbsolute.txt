@@ -33,7 +33,6 @@ D:\powercode\靖江PPE代码\Power.JJ.APP\bin\Debug\Power.JJ.APP.dll
 D:\powercode\靖江PPE代码\Power.JJ.APP\bin\Debug\Power.JJ.APP.pdb
 D:\powercode\靖江PPE代码\Power.JJ.APP\bin\Debug\Newtonsoft.Json.dll
 D:\powercode\靖江PPE代码\Power.JJ.APP\bin\Debug\Microsoft.Web.Administration.dll
-D:\powercode\靖江PPE代码\Power.JJ.APP\obj\Debug\Power.JJ.APP.csproj.AssemblyReference.cache
 D:\powercode\靖江PPE代码\Power.JJ.APP\obj\Debug\Power.JJ.APP.csproj.CoreCompileInputs.cache
 D:\powercode\靖江PPE代码\Power.JJ.APP\obj\Debug\Power.JJ.APP.csproj.CopyComplete
 D:\powercode\靖江PPE代码\Power.JJ.APP\obj\Debug\Power.JJ.APP.dll

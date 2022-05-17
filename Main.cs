@@ -1138,8 +1138,8 @@ from
             dbSQL.addParam("plan_guid", plan_guid);
             dbSQL.addParam("wbs_short_name", wbs_short_name);
             dbSQL.addParam("date", date);
-
-            DataTable Dt_One = XCode.DataAccessLayer.DAL.QuerySQL(sInsZY.ToString());
+            DataSet Dt_One = dbSQL.getDataSet(sInsZY.ToString());
+            //DataTable Dt_One = XCode.DataAccessLayer.DAL.QuerySQL(sInsZY.ToString());
             arrayListTwo.Add(Dt_One);
             JsonSerializerSettings s_setting = new JsonSerializerSettings();
             return JsonConvert.SerializeObject(arrayListTwo, s_setting);
